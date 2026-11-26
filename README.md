@@ -95,4 +95,4 @@ El sitio se publica desde `main` y la carpeta raíz del repositorio. `index.html
 | 0:29–0:45 | Apunta a una perspectiva durante 2 s. Pasa al tsunami con el índice y el medio. |
 | 0:45–1:00 | Muestra la ola y cómo reacciona el mobiliario. Reconstruye la ciudad y menciona el alcance educativo del caso Titanium. |
 
-**Enlace del video final** · _[Pegar aquí el enlace cuando esté disponible]_
+[Video de funcionamiento de Chile Resiste (60 segundos)](https://github.com/ambrosiovaldesbw/Chile-Resiste/releases/download/video-unidad-3/Chile_Resiste_final.mp4)

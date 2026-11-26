@@ -57,6 +57,7 @@
     const modeButtons = [...document.querySelectorAll("[data-mode]")];
 
     function showDrawer(id) {
+      if (activeDrawer === "video-funcionamiento" && id !== activeDrawer) byId("video-demostracion")?.pause();
       activeDrawer = id;
       document.querySelector('[data-mode="info"]').setAttribute("aria-pressed", String(id === "science"));
       for (const drawer of document.querySelectorAll(".drawer")) drawer.hidden = drawer.id !== id;
